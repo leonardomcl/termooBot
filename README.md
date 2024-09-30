@@ -9,4 +9,5 @@ Instructions
 PHP webdriver documentation
 https://github.com/php-webdriver/php-webdriver
 
-[https://github.com/user-attachments/assets/6a174e09-33fa-45d0-ae77-c4f041dfa1dd](https://github.com/leonardomcl/termooBot/issues/1#issue-2557323734)
+
+https://github.com/user-attachments/assets/055b2119-9a88-42b5-9565-aa615bce20b6
