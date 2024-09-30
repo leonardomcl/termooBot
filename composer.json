@@ -1,0 +1,11 @@
+{
+    "require": {
+        "php-webdriver/webdriver": "^1.15"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+
+}
